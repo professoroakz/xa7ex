@@ -11,4 +11,4 @@ https://linktr.ee/xaoex https://linktr.ee/oktays
 
 https://xaoex.asuscomm.com
 
-https://github.com/xaoex/xa8ex
+[https://github.com/xaoex/xa7ex
